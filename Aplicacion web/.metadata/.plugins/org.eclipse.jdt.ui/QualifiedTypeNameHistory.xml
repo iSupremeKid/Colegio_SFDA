@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="beans.ProfesorBean"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="dao.mysql.MySQL_PersonaDao"/>
+<fullyQualifiedTypeName name="daofactory.MySQLDaoFactory"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="daofactory.DaoFactory"/>
+<fullyQualifiedTypeName name="dao.interfaces.PersonaDao"/>
+<fullyQualifiedTypeName name="beans.PersonaBean"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+</qualifiedTypeNameHistroy>

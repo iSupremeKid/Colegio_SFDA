@@ -1,0 +1,12 @@
+127.0.0.1 - - [20/May/2015:09:53:19 -0500] "GET / HTTP/1.1" 404 961
+0:0:0:0:0:0:0:1 - - [20/May/2015:09:53:21 -0500] "GET /Intranet/index.jsp HTTP/1.1" 200 2853
+0:0:0:0:0:0:0:1 - - [20/May/2015:09:53:22 -0500] "GET /Intranet/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2015:09:53:22 -0500] "GET /Intranet/css/estilo.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2015:09:53:22 -0500] "GET /Intranet/css/bootstrap-theme.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2015:09:53:22 -0500] "GET /Intranet/img/escudo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2015:09:53:22 -0500] "GET /Intranet/img/icon/ie.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2015:09:53:22 -0500] "GET /Intranet/img/icon/mozilla.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2015:09:53:22 -0500] "GET /Intranet/img/icon/chrome.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2015:09:53:22 -0500] "GET /Intranet/img/icon/safari.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2015:09:53:22 -0500] "GET /Intranet/fonts/glyphicons-halflings-regular.eot? HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2015:09:53:34 -0500] "POST /Intranet/Login HTTP/1.1" 200 2927

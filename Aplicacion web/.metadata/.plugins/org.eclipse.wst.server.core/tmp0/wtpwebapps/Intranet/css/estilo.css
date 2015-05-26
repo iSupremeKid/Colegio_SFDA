@@ -1,0 +1,128 @@
+header{
+	background-color: #895045;
+	color:white;
+}
+
+.sp{
+	padding: 0px !important;
+}
+
+header img{
+	padding:20px;
+
+}
+
+#texto_header{
+	padding-top:30px;
+
+}
+
+#header{
+	border-bottom: 8px solid #fff974;
+}
+
+footer{
+	background-color: #595959;
+	color:white;
+	padding:10px;
+}
+
+#texto_footer{
+	font-size:16px;
+}
+fieldset legend{
+	font-weight: bold;
+
+}
+
+fieldset{
+	width:315px;
+	margin: auto;
+	
+	
+}
+
+
+
+@media screen and (max-width: 768px) {
+    #header{
+    	text-align: center;
+    }
+    #login_botones{
+    	text-align: center;
+
+    }
+
+    #boton_recuperar{
+    	
+    }
+
+
+
+	#cssmenu{
+		width:100%;
+	}
+
+
+
+}
+
+@media screen and (max-width:992px){
+	fieldset legend{
+		text-align: center
+	}
+
+	#login_cuerpo{
+		text-align: center;
+	}
+}
+
+#formulario_login{
+	margin-top:10px;
+}
+
+
+#cssmenu{
+	margin:0px ;
+	
+}
+
+
+
+
+
+
+
+
+#boton_logoff{
+	background-color: #ecc950 !important;
+}
+
+
+#cursos_alumno{
+	padding:10px;
+}
+
+#cursos_alumno input{
+	padding:10px;
+}
+
+
+
+
+#tabla_horario th,td{
+	border: 1px solid black;
+	padding:15px;
+	text-align: center;
+
+}
+
+.table-responsive{
+	padding-right:50px;
+}
+
+#google_calendar{
+	width:90%;
+	height: 400px;
+}
+
